@@ -1,3 +1,3 @@
 #!/bin/zsh
 
-/home/minecraft/graalvm/graalvm-jdk-21.0.5+9.1/bin/java -jar ~/tools/mcaselector/mcaselector-2.5.2.jar --world ~/server/chromaticchaos2 "$@"
+~/game/graalvm/graalvm-jdk-21.0.6+8.1/bin/java  -jar ~/game/tools/mcaselector/mcaselector-2.5.3.jar --world ~/game/server/cc "$@"
